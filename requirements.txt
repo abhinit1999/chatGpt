@@ -7,3 +7,4 @@ FAISS-cpu
 langchain-groq
 streamlit
 sentence-transformers
+langchain-huggingface
