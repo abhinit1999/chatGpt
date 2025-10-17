@@ -21,7 +21,7 @@ llm = ChatGroq(
 )
 
 # Designing user Interface with Stremalit
-st.title("RAG application Design and Developed by Me")
+st.title("RAG application ChatGPT")
 
 # upload documents
 uploaded_file = st.file_uploader("upload PDF", type=['PDF'])
