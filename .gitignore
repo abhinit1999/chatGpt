@@ -7,6 +7,8 @@ __pycache__/
 /myenv/
 .env/
 .RNN.ipynb
+/Temp_files/
+/FAISS_DB_Store/
 
 
 # C extensions

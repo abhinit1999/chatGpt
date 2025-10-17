@@ -80,6 +80,7 @@ prompt = PromptTemplate(
 
 
 # handling user query/ question 
+ask_button = False
 if uploaded_file:
     st.subheader("Ask any question about the uploaded file/PDF")
     input_question = st.text_input("User Question")
